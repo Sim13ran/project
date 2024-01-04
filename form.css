@@ -1,0 +1,96 @@
+.head{
+    display:flex;
+    justify-content: right;
+    background-color: rgb(196, 249, 97); 
+}
+.border{
+    border:2px solid;
+    border-color: #ae2101;
+}
+.logo{
+    text-align: right;
+    margin-right: 5%; 
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    border-color: black;
+    border:1px solid;
+}
+.header1:hover{
+    border:1px solid;
+    border-color: black ;
+}
+.header2{
+    display:flex;
+    justify-content: right;
+}
+.section{
+    display: flex;
+    justify-content:space-between;
+}
+.body1{
+    font-style: italic;
+}
+.photo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    border-left: 2px solid;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+}
+.body2{
+    margin-left: 25px;
+    margin-top: 10px;
+    text-align: left;
+}
+.body3{
+    font-style: italic;
+}
+.body4{
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: 75%;
+}
+.row1{
+    background-color: lightblue;
+}
+.body5{
+    font-style: italic;
+}
+.body6{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.body7{
+    font-style: italic;
+
+}
+.body8{
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;;
+}
+.body9{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.btn{
+    background-color: orange;
+}
+.foot{
+    background-color: black;
+    color:white;
+}
+.foot2{
+    text-align: right;
+}
